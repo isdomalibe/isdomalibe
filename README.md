@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Wisdom 👋  
 
-<!--
-**isdomalibe/isdomalibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring programmer with a passion for creating and learning new things in the world of software development.  
+I love programming and strive to improve my skills every day. My goal is to create useful, impactful applications while continuously growing as a developer.  
 
-Here are some ideas to get you started:
+## 🌟 Skills and Technologies  
+- HTML, CSS, JavaScript  
+- Currently learning: React.js, Node.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals  
+- Improve my skills in frontend development (HTML, CSS, JavaScript)  
+- Learn how to build both the frontend and backend of applications  
+- Become a professional programmer and work on exciting projects  
+
+Feel free to explore my repositories and see what I’ve been working on.  
+Thank you for visiting my GitHub!  
